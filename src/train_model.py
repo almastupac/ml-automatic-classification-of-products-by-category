@@ -179,3 +179,7 @@ pipeline.fit(X, y)
 # Save the model to a file
 joblib.dump(pipeline, "model/product_category_model.pkl")
 print("\nModel saved as model/product_category_model.pkl")
+
+# Save the keyword to a file
+joblib.dump(binary_features, "model/binary_columns.pkl")
+print("\nBinary columns saved as model/binary_columns.pkl")
