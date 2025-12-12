@@ -1,7 +1,10 @@
-📦 Automatic Classification of Products by Category
+# 📦 Automatic Classification of Products by Category
+
 Machine Learning project developed as part of the IT Academy program
+
 This project focuses on building an automated system that predicts the product category based on its title.
-It is developed as part of my Machine Learning studies at IT Akademija, with the goal of understanding the complete ML workflow — from raw data to a deployed prediction script.
+
+It is developed as part of my Machine Learning studies at IT Academy, with the goal of understanding the complete ML workflow — from raw data to a deployed prediction script.
 
 The pipeline includes:
 
